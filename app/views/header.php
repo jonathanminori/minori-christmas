@@ -6,8 +6,8 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>2016 Secret Santa</title>
-  <meta name="description" content="A way for us to decide who gets what for Christmas">
+  <title>Minori'2 2016 Somewhat Secret Santa</title>
+  <meta name="description" content="Can't wait to see you all soon!">
   <meta name="author" content="Jonathan Minori">
 
   <!-- Mobile Specific Metas
@@ -16,15 +16,15 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="https://fonts.googleapis.com/css?family=Eczar|Kumar+One+Outline|Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Kumar+One+Outline" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="<?php print base_url('css/normalize.css'); ?>">
-  <link rel="stylesheet" href="<?php print base_url('css/skeleton.css'); ?>">
+  <link rel="stylesheet" href="<?php print base_url('assets/css/milligram.css'); ?>">
+  <!-- <link rel="stylesheet" href="<?php print base_url('assets/css/skeleton.css'); ?>"> -->
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="<?php base_url('images/favicon.png'); ?>">
+  <link rel="icon" type="image/png" href="<?php base_url('assets/images/favicon.png'); ?>">
 
 </head>
